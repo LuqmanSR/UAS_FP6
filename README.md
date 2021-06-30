@@ -1,5 +1,5 @@
 ### [Aplikasi Data Barang](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/drive/folders/1-2HYxUk6ar_xSsuv_45XCIg2MD9vRQUn?usp=sharing) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1_10poPgHVEPpUwdu7gD2swOvjHPfqWBW/view?usp=sharing) klik
 #### By
 - Nama  : Luqman Sayfi Rabbani
 - NIM   : 18090075
