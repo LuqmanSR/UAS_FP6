@@ -1,4 +1,4 @@
-### [Aplikasi Data Barang](http://bookstore-adesug.herokuapp.com/) klik
+### [Aplikasi Data Barang](http://uas-fp66.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1_10poPgHVEPpUwdu7gD2swOvjHPfqWBW/view?usp=sharing) klik
 #### By
 - Nama  : Luqman Sayfi Rabbani
